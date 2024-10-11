@@ -47,11 +47,3 @@ pip install pygame pillow pywin32
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-Josh
-
----
-
-Feel free to contribute or report any issues you encounter!
